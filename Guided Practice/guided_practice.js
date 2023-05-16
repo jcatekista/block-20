@@ -8,6 +8,7 @@ root.appendChild(h1);
 //set image to root
 const img = document.createElement("img");
 img.src = "./assets/mona_lisa.jpg";
+img.width = 300;
 root.appendChild(img);
 //add paragraph desc
 const p = document.createElement("p");
