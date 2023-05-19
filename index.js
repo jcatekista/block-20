@@ -31,3 +31,6 @@ function main() {
 
 //call the main function
 main();
+document.body.style.backgroundColor = "gray";
+document.body.style.textAlign = "center";
+document.body.style.color = "aqua";
